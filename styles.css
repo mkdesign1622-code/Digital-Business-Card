@@ -5,7 +5,7 @@
   --muted: #9a9a96;
   --line-dark: #343432;
   --line-light: #bebeb8;
-  --font-display: "Base Neue", "Inter Tight", "Arial Narrow", Arial, sans-serif;
+  --font-display: "Base Neue"
   --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
   --ease-in-out: cubic-bezier(0.76, 0, 0.24, 1);
 }
